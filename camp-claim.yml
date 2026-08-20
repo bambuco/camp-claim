@@ -1,0 +1,8 @@
+maintainers:
+- github: bambuco
+- github: davidherney
+security-contact: https://github.com/bambuco/camp-claim/security/advisories/new
+labels:
+  - fully-free
+  - donation-supported
+  - commercial-support-available
